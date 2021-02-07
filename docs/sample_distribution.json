@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "discord": {
         "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Heaven Network",
         "smallImageKey": "seal-circle"
     },
     "java": {
@@ -11,16 +11,16 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "id": "HeavenSpigot",
+            "name": "Heaven Production Server",
+            "description": "Heaven Network",
+            "icon": "https://imgur.com/a/ua6XDK2",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
+            "address": "localhost",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
+                "largeImageText": "Heaven Production Server",
                 "largeImageKey": "server-prod"
             },
             "mainServer": true,
